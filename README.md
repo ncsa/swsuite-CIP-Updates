@@ -1,3 +1,5 @@
+While this was the inital version of the code we were working with, due to realization that it was not the version currently running on Hal, we pulled that version. This fork will likely be deprecated and removed soon.
+
 # swsuite v1.0
 
 ## Introduction
